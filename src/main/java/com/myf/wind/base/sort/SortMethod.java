@@ -1,4 +1,4 @@
-package wind.myf.base.sort;
+package com.myf.wind.base.sort;
 /**
  * @author : wind-myf
  * @date : 2021/9/5 19:50

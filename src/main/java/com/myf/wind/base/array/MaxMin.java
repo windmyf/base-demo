@@ -1,4 +1,4 @@
-package wind.myf.base.array;
+package com.myf.wind.base.array;
 /**
  * @author : wind-myf
  * @date : 2021/9/5 22:31

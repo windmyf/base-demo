@@ -1,4 +1,4 @@
-package wind.myf.base.math;
+package com.myf.wind.base.math;
 /**
  * @author : wind-myf
  * @date : 2021/9/5 22:03

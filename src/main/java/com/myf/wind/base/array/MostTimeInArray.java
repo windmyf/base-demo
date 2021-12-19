@@ -1,8 +1,9 @@
-package wind.myf.base.array;
+package com.myf.wind.base.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+
 /**
  * @author : wind-myf
  * @date : 2021/12/10 6:31

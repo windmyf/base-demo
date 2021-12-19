@@ -1,4 +1,4 @@
-package wind.myf.base.thread;
+package com.myf.wind.base.thread;
 
 import java.util.LinkedList;
 
