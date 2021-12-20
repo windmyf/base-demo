@@ -1,4 +1,4 @@
-package com.myf.wind.base.nio;
+package com.myf.wind.base.netty;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.*;
