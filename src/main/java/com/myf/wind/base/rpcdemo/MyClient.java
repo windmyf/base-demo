@@ -18,7 +18,7 @@ public class MyClient {
         for (int i = 0; i < size; i++) {
             threads[i] = new Thread(()->{
                 Car car = InterfaceProxy.proxyGet(Car.class);
-                String drive = car.drive("北京");
+                String drive = car.drive("北京[" + Thread.currentThread().getName() + "]");
                 System.out.println(drive);
             });
         }

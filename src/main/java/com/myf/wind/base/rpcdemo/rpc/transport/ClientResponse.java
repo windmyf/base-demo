@@ -14,11 +14,7 @@ public class ClientResponse extends ChannelInboundHandlerAdapter {
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
 
         PackageMsg responseMsg = (PackageMsg)msg;
-
-        // TODO 处理requestId
         ResponseMappingCallback.runCallBack(responseMsg);
-
-
     }
 }
 
